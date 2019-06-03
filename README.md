@@ -7,7 +7,7 @@ Handouts: 讲义PDF
 
 Data: 部分数据文件，完整数据：[机器学习数据](https://pan.baidu.com/s/1ZkP4kNRZLEcO71mUJ4zbCw)
 
-Weka Data:[Weka机器学习数据](https://pan.baidu.com/s/1NnIcVlIaeTJKLnuYKX3tCw) 提取码：li64
+Weka Data: [Weka机器学习数据](https://pan.baidu.com/s/1NnIcVlIaeTJKLnuYKX3tCw) 提取码：li64
 
 ## 课程内容
 
